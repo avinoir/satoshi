@@ -9,7 +9,7 @@ My **btc** for donations: 1M5x4QehTeoktCBsEGCPyKB24s1seRe7ve
 
 ``cd satoshi``
 
-``pip3 install requirements.txt``
+``pip install pyAesCrypt``
 
 ``python satoshi.py``
 

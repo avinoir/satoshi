@@ -12,3 +12,7 @@ My **btc** for donations: 1M5x4QehTeoktCBsEGCPyKB24s1seRe7ve
 ``pip3 install requirements.txt``
 
 ``python satoshi.py``
+
+# Screen
+
+[!alt text](https://github.com/malorento/satoshi/blob/master/Images/1.JPG)
